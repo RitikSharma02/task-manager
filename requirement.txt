@@ -1,0 +1,19 @@
+Build a mobile application using Flutter for both Android and iOS (focusing on Android for
+the final APK deliverable).
+1. Authentication
+ Create Login and Registration screens.
+ Securely store the Access Token and Refresh Token using a tool like
+flutter_secure_storage.
+ Implement logic to automatically refresh the token when it expires before retrying
+an API call.
+2. Task Dashboard
+ Display the task list using efficient rendering (ListView.builder).
+ Include pull-to-refresh functionality to easily update the list.
+3. Architecture & State Management
+ Structure your code into clear layers: UI, State, Repositories, and Services/API
+layer.
+ Use a modern state management solution like Riverpod, Bloc/Cubit, or Provider.
+4. CRUD & Error Handling
+ Implement all Add, Edit, Delete, and Toggle task functionalities.
+ Display friendly Snackbars or Dialogs for common errors (like 401 Unauthorized or
+500 Server Error).

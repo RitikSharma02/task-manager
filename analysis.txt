@@ -1,0 +1,16 @@
+﻿Analyzing Task-flutter...                                       
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\theme\app_theme.dart:74:64 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\theme\app_theme.dart:81:61 - deprecated_member_use
+  error - The argument type 'CardTheme' can't be assigned to the parameter type 'CardThemeData?'.  - lib\theme\app_theme.dart:83:18 - argument_type_not_assignable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\theme\app_theme.dart:86:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\views\tasks\task_list_view.dart:36:90 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\views\tasks\task_list_view.dart:38:86 - deprecated_member_use
+  error - The method 'OpenContainer' isn't defined for the type 'OpenContainerWrapper' - lib\views\tasks\task_list_view.dart:88:12 - undefined_method
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\common\custom_text_field.dart:43:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\common\custom_text_field.dart:50:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\common\primary_button.dart:59:42 - deprecated_member_use
+warning - Unused import: 'package:get/get.dart' - lib\widgets\task_card.dart:2:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\task_card.dart:51:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\task_card.dart:92:52 - deprecated_member_use
+

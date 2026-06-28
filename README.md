@@ -1,16 +1,37 @@
-# task_manager
+# Task Manager
 
-A new Flutter project.
+A robust, cross-platform task management application built with Flutter.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- **Cross-Platform**: Seamlessly runs on Android and iOS.
+- **State Management**: Efficient and scalable state handling architecture.
+- **Modern UI**: Clean, intuitive interface built with Material Design principles.
+- **REST Integration**: Connected to scalable backend APIs.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- Flutter SDK (latest stable)
+- Dart SDK
+- Android Studio / Xcode for emulators
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RitikSharma02/task-manager.git
+   ```
+2. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+3. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## 🏗 Architecture
+This project follows a clean architecture pattern to ensure maintainability and separation of concerns between the UI, business logic, and data layers.
+
+---
+*Maintained by [@RitikSharma02](https://github.com/RitikSharma02)*
